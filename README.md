@@ -41,6 +41,9 @@ when creating new repositories. This is not a useful module by itself.
 
 
 
+It's free and open source made available under the the [GNU Affero General Public v3 License](LICENSE.md).
+
+
 
 
 
@@ -192,6 +195,30 @@ Copyright © 2021-2023 The Guardian Project
 
 
 
+
+
+
+## License
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0.en.html)
+
+```text
+GNU AFFERO GENERAL PUBLIC LICENSE
+Version 3, 19 November 2007
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as
+published by the Free Software Foundation, either version 3 of the
+License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
 
 
 
